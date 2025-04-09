@@ -12,7 +12,7 @@ A collection of HTML templates for various purposes. This repository includes pr
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/template.git](https://github.com/giovannilamarmoraproject/Templates.git)
+   git clone https://github.com/giovannilamarmoraproject/Templates.git
    ```
 2. Choose the template you need.
 
